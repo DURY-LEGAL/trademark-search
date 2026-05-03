@@ -1,0 +1,26 @@
+{
+  "name": "trademark-search",
+  "version": "0.1.0",
+  "description": "Trademark search and availability check - DPMA, EUIPO, WIPO databases. Powered by DURY LEGAL.",
+  "keywords": [
+    "trademark",
+    "search",
+    "availability",
+    "dpma",
+    "euipo",
+    "wipo",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/trademark-search.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
